@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# About
+A Travel advisor web app. Fetch information of near by restaurant,hotels and display them. It uses 
+- React
+- axios
+- google places api
+- google map api
+- material -ui  + some bootstrape
+
+## Demo
+
+![demo](./src/demo/demoimg.png)
+![demo video](./src/demo/demovedio.mp4)
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
