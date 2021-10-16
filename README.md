@@ -12,6 +12,7 @@ A Travel advisor web app. Fetch information of near by restaurant,hotels and dis
 ![demo video](./src/demo/demovedio.mp4)
 
 
+It is a tutorial project
 
 ## Getting Started with Create React App
 
