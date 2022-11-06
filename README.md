@@ -1,5 +1,5 @@
 # About
-A Travel advisor web app. Fetch information of near by restaurant,hotels and display them. It uses 
+A Travel advisor web app.Provide information of near by restaurant,hotels using google map api and provide information about them. It uses 
 - React
 - axios
 - google places api
