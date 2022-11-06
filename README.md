@@ -6,11 +6,15 @@ A Travel advisor web app.Provide information of near by restaurant,hotels using 
 - google map api
 - material -ui  + some bootstrape
 
+
+---
 ## Demo
+
 
 ![demo](./src/demo/demoimg.png)
 ![demo video](./src/demo/demovedio.mp4)
 
+---
 
 It is a tutorial project
 
